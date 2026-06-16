@@ -91,6 +91,10 @@ I was trained as applied psychology track for 5 years especially in cognitive ps
 
 I do have a book want to read: [Bayesian Models of Cognition: Reverse Engineering the Mind](https://www.amazon.nl/-/en/Bayesian-Models-Cognition-Reverse-Engineering/dp/0262049414/ref=sr_1_1?adgrpid=107688379813&dib=eyJ2IjoiMSJ9.4V-96JR0m56L-CvQEAFtNfezFP06mCiMkJLo2QRdpP6rUI-DyXNHZF-c1l4SnM_YheBwmV-d8aWgHnQ3JZP0SE6gE_PE4hnGLv94xD9JTFDOTBzY_1l-qJWlo2HuVMSRD8za1svprwpsOfx6MRO-Cui3BBlUqzJL3DHYZhJNKVMKAWsBuHB957VwBLQ40APn1A2JzjVhA5bUegPlSa70TOQgaVshj0tGeKnafsky27RXT_fM4H6F2yieZqQb8oJl3A5XM_1tQRi-KM2njyqzMGqYeifS8cRr2EEzjbeV3zc.7Kof3KbBRUsBBOdgNSpd_JZ8cpN9pKuvz1bWIZLYEgo&dib_tag=se&hvadid=678272022875&hvdev=c&hvlocphy=9103951&hvnetw=g&hvqmt=e&hvrand=14643976115512579455&hvtargid=kwd-2229974913553&hydadcr=30008_2483970&keywords=bayesian+models+of+cognition&mcid=de04fc7587ea3747bd2eab81a73d2173&qid=1773740826&sr=8-1)
 
+### Computational Cognitive Modelling
+
+This is a field for building up decision models, I think I should learn something related to this field.
+
 ### Books
 
 Yuille, A. L., & Bülthoff, H. H. (1993). Bayesian decision theory and psychophysics.
