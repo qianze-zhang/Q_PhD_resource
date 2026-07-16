@@ -1,4 +1,4 @@
-# Q_Learn_as_PhD
+# General Information
 This is a private repository used to store my learning materials and record my self-learning process. It was created on January 4, 2026.
 
 My advisors said, all of the following things can be seen as tools. 
@@ -141,4 +141,44 @@ Fro economics, I came cross these  three books from the beginning:
 
 After first year, I used my summer to self-study this book by Hal Varian, which is in between of BOOK 1 and BOOK 2.
 -  [Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
+
+## 8 Jounrals
+
+I have a habit of reading journal articles and setting email alerts. Here is the list of journals I am interested. 
+
+| No. | Target Journal | URL | Comments | AIP score | AJG2024 | RSS | Email Alerts |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Review of Economic Studies | [https://academic.oup.com/restud](https://academic.oup.com/restud) | Top 5 | 100 | 4* | NA | NA |
+| 2 | Econometrica | [https://onlinelibrary.wiley.com/journal/14680262](https://onlinelibrary.wiley.com/journal/14680262) | Top 5 | 100 | 4* | NA | NA |
+| 3 | Journal of Political Economy | [https://www.jstor.org/journal/jpoliecon](https://www.jstor.org/journal/jpoliecon) | Top 5 | 100 | 4* | NA | NA |
+| 4 | American Economic Review (AER) | [https://www.jstor.org/journal/amereconrevi](https://www.jstor.org/journal/amereconrevi) | Top 5 | 100 | 4* | N | Y |
+| 5 | Quarterly Journal of Economics (QJE) | [https://academic.oup.com/qje](https://academic.oup.com/qje) | Top 5 | 100 | 4* | Y |  |
+| 6 | Nature Human Behaviour | [https://www-nature-com.proxy-ub.rug.nl/nathumbehav/](https://www-nature-com.proxy-ub.rug.nl/nathumbehav/) |  | 99 | NA | Y |  |
+| 7 | Journal of Economic Perspectives | [https://www.aeaweb.org/journals/jep](https://www.aeaweb.org/journals/jep) |  | 99 | 4 |  |  |
+| 8 | Journal of European Economics Association | [https://academic.oup.com/jeea](https://academic.oup.com/jeea) |  | 99 | 4 |  |  |
+| 9 | Psychological Science | [https://journals.sagepub.com/home/pss](https://journals.sagepub.com/home/pss) |  | 98 | 4* | Y |  |
+| 10 | Management Science | [https://pubsonline.informs.org/journal/mnsc](https://pubsonline.informs.org/journal/mnsc) |  | 98 | 4* | N |  |
+| 11 | PNAS / Science Advances | [https://www.pnas.org/](https://www.pnas.org/) |  | 98 | NA | Y |  |
+| 12 | Theoretical Economics | [https://econtheory.org/](https://econtheory.org/) |  | 97 | 4 |  |  |
+| 13 | Behavior Research Methods | [https://link.springer.com/journal/13428](https://link.springer.com/journal/13428) |  | 96 | NA | N | Y |
+| 14 | Organizational Behavior and Human Decision Processes | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/organizational-behavior-and-human-decision-processes](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/organizational-behavior-and-human-decision-processes) |  | 96 | 4 | Y |  |
+| 15 | Review of Economic Dynamics | [http://www-sciencedirect-com.proxy-ub.rug.nl/journal/review-of-economic-dynamics](http://www-sciencedirect-com.proxy-ub.rug.nl/journal/review-of-economic-dynamics) |  | 96 | 3 | Y |  |
+| 16 | Journal of Experimental Psychology-General | [https://www.apa.org/pubs/journals/xge](https://www.apa.org/pubs/journals/xge) |  | 96 | 4 | Y |  |
+| 17 | Journal of Economic Theory | [https://link.springer.com/journal/199](https://link.springer.com/journal/199) |  | 95 | 4 | N | Y |
+| 18 | Experimental Economics | [https://www.cambridge.org/core/journals/experimental-economics](https://www.cambridge.org/core/journals/experimental-economics) |  | 94 | 3 | Y |  |
+| 19 | European Economic Review | [https://www.sciencedirect.com/journal/european-economic-review](https://www.sciencedirect.com/journal/european-economic-review) |  | 93 | 3 | Y |  |
+| 20 | Cognition | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/cognition](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/cognition) |  | 92 | 4 | Y |  |
+| 21 | Computers in Human Behavior | [https://www.sciencedirect.com/journal/computers-in-human-behavior](https://www.sciencedirect.com/journal/computers-in-human-behavior) |  | 91 | 2 | Y |  |
+| 22 | Artificial Intelligence Review | [https://link.springer.com/journal/10462](https://link.springer.com/journal/10462) |  | 90 | NA | N | Y |
+| 23 | Journal of Risk and Uncertainty | [https://link.springer.com/journal/11166](https://link.springer.com/journal/11166) |  | 89 | 3 | N | Y |
+| 24 | Games and Economic Behavior (GEB) | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/games-and-economic-behavior](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/games-and-economic-behavior) |  | 88 | 3 | Y |  |
+| 25 | Decision Support Systems | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/decision-support-systems](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/decision-support-systems) |  | 87 | 3 | Y |  |
+| 26 | Judgment and Decision Making | [https://www.cambridge.org/core/journals/judgment-and-decision-making](https://www.cambridge.org/core/journals/judgment-and-decision-making) |  | 87 | 3 | Y |  |
+| 27 | Journal of Economic Behavior and Organization (JEBO) | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-behavior-and-organization](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-behavior-and-organization) |  | 86 | 3 | Y |  |
+| 28 | Journal of Economic Psychology | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-psychology](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-psychology) |  | 84 | 2 | Y |  |
+| 29 | Journal of Experimental Psychology-Applied | [https://www.apa.org/pubs/journals/xap](https://www.apa.org/pubs/journals/xap) | Heavy Psycho | 84 | 4 | Y |  |
+| 30 | Journal of Behavioral Decision Making | [https://onlinelibrary.wiley.com/journal/10990771](https://onlinelibrary.wiley.com/journal/10990771) |  | 81 | 3 | Y |  |
+| 31 | Journal of Economic Dynamics and Control | [https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-dynamics-and-control](https://www-sciencedirect-com.proxy-ub.rug.nl/journal/journal-of-economic-dynamics-and-control) |  | 81 | 3 | Y |  |
+| 32 | Decision Sciences | [https://onlinelibrary.wiley.com/journal/15405915](https://onlinelibrary.wiley.com/journal/15405915) |  | 80 | 3 | Y |  |
+| 33 | Economic Theory | [https://link.springer.com/journal/199](https://link.springer.com/journal/199) |  | 77 | 3 | NA | y |
 
