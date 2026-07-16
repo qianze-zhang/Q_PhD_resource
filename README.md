@@ -13,8 +13,6 @@ This is the foundation of everything: Computer Science, Economics and Psychology
 ### Calculus
 I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) & [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
-### PLANS
-
 ### Linear Algebra
 [MIT18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
 [3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -29,8 +27,6 @@ I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single V
 [Stanford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html)
 
 ## 2 Computer Science
-
-### PLANS: CS Learning Path
 
 I find a super comprehensive resources for learning CS, here is the link: [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
