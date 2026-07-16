@@ -135,8 +135,14 @@ Gilboa, I. (2009). Theory of decision under uncertainty (Vol. 45). Cambridge uni
 
 ## 7 Economics
 
-Fro economics, I used four books from the beginning:
-- [Varian Hal R. Intermediate microeconomics: a modern approach.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://faculty.ksu.edu.sa/sites/default/files/microeco-_varian.pdf)
-- [Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
+Fro economics, I came cross these  three books from the beginning:
+- **[Varian Hal R. Intermediate microeconomics: a modern approach.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://faculty.ksu.edu.sa/sites/default/files/microeco-_varian.pdf)**
+- - This is a very good text book for introdution of Microeconomics.
 - [Mas-Colell A, Whinston MD, Green JR. Microeconomic theory. New York: Oxford university press; 1995 Jun 15.](https://www.amazon.nl/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
+- - This book is the **bible** of microeconomics which means it is hard to understand the content.
 - [Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://thenigerianprofessionalaccountant.wordpress.com/wp-content/uploads/2013/04/modern-econometrics.pdf](https://www.amazon.nl/Guide-Modern-Econometrics-Fifth/dp/1119401151))
+- - This books was used for Prof. Dr. Viola Angelini course. I am not a specilist in econmetrics but this introduce a new world of understanding data besides classical psychological statistics.
+
+After first year, I used my summer to self-study this book by Hal Varian, which is in between of BOOK 1 and BOOK 2.
+-  [Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
+
