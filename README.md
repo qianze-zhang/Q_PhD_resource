@@ -3,7 +3,7 @@ This is a private repository used to store my learning materials and record my s
 
 My advisors said, all of the following things can be seen as tools. 
 
-So I treat thrm as tools. learn it when I need it, use it after I learned it.
+So I treat them as tools. Learn it when I need it, use it after I learned it.
 
 
 ## 1 Mathematics 
