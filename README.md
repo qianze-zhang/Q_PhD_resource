@@ -129,14 +129,19 @@ Gilboa, I. (2009). Theory of decision under uncertainty (Vol. 45). Cambridge uni
 
 ## 6 Statistics
 
+### Books
+
+Back in my undergruate years, I used **[Essentials of Statistics for the Behavioral Sciences](https://www.cengage.com/c/essentials-of-statistics-for-the-behavioral-sciences-10e-gravetter-wallnau-forzano-witnauer/9780357365298/)** for learning statisctics. In my following years, I never further sharper my skills 
+around statistics. I mean sharpen by choosing to develop a new data analysis method.
+
 ## 7 Economics
 
 Fro economics, I came cross these  three books from the beginning:
-- **[Varian Hal R. Intermediate microeconomics: a modern approach.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://faculty.ksu.edu.sa/sites/default/files/microeco-_varian.pdf)**
+- **[Varian Hal R. Intermediate microeconomics: a modern approach.](https://wwnorton.com/books/9781324034292)**
 - - This is a very good text book for introdution of Microeconomics.
 - [Mas-Colell A, Whinston MD, Green JR. Microeconomic theory. New York: Oxford university press; 1995 Jun 15.](https://www.amazon.nl/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
 - - This book is the **bible** of microeconomics which means it is hard to understand the content.
-- [Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://thenigerianprofessionalaccountant.wordpress.com/wp-content/uploads/2013/04/modern-econometrics.pdf](https://www.amazon.nl/Guide-Modern-Econometrics-Fifth/dp/1119401151))
+- [Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.](https://www.amazon.nl/Guide-Modern-Econometrics-Fifth/dp/1119401151)
 - - This books was used for Prof. Dr. Viola Angelini course. I am not a specilist in econmetrics but this introduce a new world of understanding data besides classical psychological statistics.
 
 After first year, I used my summer to self-study this book by Hal Varian, which is in between of BOOK 1 and BOOK 2.
