@@ -23,58 +23,55 @@ I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single V
 ### Probability theory
 [UCB CS126 : Probability theory](https://inst.eecs.berkeley.edu/~ee126/fa20/content.html)
 
-### Convex Optimization
-[Stanford EE364A: Convex Optimization](http://stanford.edu/class/ee364a/index.html)
-
 ## 2 Computer Science
 
 I find a super comprehensive resources for learning CS, here is the link: [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
 
-### The Information Theory, Pattern Recognition, and Neural Networks
-[Cambridge The Information Theory, Pattern Recognition, and Neural Networks](http://www.inference.org.uk/mackay/itila/)
+However, in general, there are no specific courses I should take in this stage.
 
 ## 3 AI
 
 I plan to separate this part from CS, as it is clearly my main focus.
 
-Three courses by Andrew Ng:
+Courses by Andrew Ng:
 
-[Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-04_desktop&campaignid=21160830418&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6495613033&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21150459093&gbraid=0AAAAADdKX6b4c7iBvxIeUBvDWsYNiIJJ_&gclid=EAIaIQobChMIzKGelremkwMVs8pEBx2IZSqxEAAYASAAEgKya_D_BwE)
-[ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project)
-
-[ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-04_desktop&campaignid=21160830418&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6495613033&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21150459093&gbraid=0AAAAADdKX6b4c7iBvxIeUBvDWsYNiIJJ_&gclid=EAIaIQobChMIzKGelremkwMVs8pEBx2IZSqxEAAYASAAEgKya_D_BwE)
+- [ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project)
+- [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
 Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)):
 
-[Harvard CS50: Introduction to AI with Python](https://cs50.harvard.edu/ai/)
+- [Harvard CS50: Introduction to AI with Python](https://cs50.harvard.edu/ai/)
 
-[CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp25/)
+- [CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp25/)
 
-[CS229: Machine Learning](https://cs229.stanford.edu/)
+- [CS229: Machine Learning](https://cs229.stanford.edu/)
 
-[国立台湾大学：李宏毅机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+- [国立台湾大学：李宏毅机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
 
-[MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
+- [MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
 
-[CS285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-[MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+- [MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+  
+- [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/)
+
+### Media and Online infulencer
+[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy)
+[LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
+[Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
+[3Blue1Brown](https://www.youtube.com/@3blue1brown)
+[StatQuest with Josh Starmer](https://www.youtube.com/@statquest)
 
 ### LLM Related
 
-[LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
-
-[Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
-
-[Large Language Model Systems, CMU 11868, Spring 2025](https://llmsystem.github.io/llmsystem2025spring/)
-
-[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/index.html)
-
-[CMU: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
-
-[CS294-158-SP24, Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
-
 [6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
+[Large Language Model Systems, CMU 11868, Spring 2025](https://llmsystem.github.io/llmsystem2025spring/)
+[Large Language Model Applications Spring 2026](https://cmu-llms.org/)
+[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/index.html)
+[CMU: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
+[Introduction to Flow Matching and Diffusion Models 2026](https://diffusion.csail.mit.edu/2026/index.html)
 
 ### Machine Learning in Advance
 After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Comuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
