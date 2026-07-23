@@ -11,11 +11,13 @@ So I treat them as tools. Learn it when I need it, use it after I learned it.
 This is the foundation of everything: Computer Science, Economics and Psychology. 
 
 ### Calculus
-I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) & [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+I took two online calculus course from Sep 2025 to Oct 2025. 
+1. [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
+2. [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
 ### Linear Algebra
-[MIT18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
-[3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+1. [MIT18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/)
+2. [3b1b](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ### Information theory and Entropy
 [MIT6.050J: Information theory and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/resources/mit6_050js08_textbook/)
@@ -25,9 +27,9 @@ I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single V
 
 ## 2 Computer Science
 
-I find a super comprehensive resources for learning CS, here is the link: [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)
+Here is the [link](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/) to a super comprehensive resources for learning CS. It has 中文/English version.
 
-However, in general, there are no specific courses I should take in this stage.
+However, I never intended to pursue a career as a computer scientist. This link leads to a pathway covering undergraduate to doctoral-level courses.
 
 ## 3 AI
 
@@ -77,31 +79,27 @@ Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习�
 After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Comuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
 
 ### Books
- I know there are a bunch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
+I know there are a bunch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
 
 ## 4 Cognitive Science
 
-I was trained as applied psychology track for 5 years especially in cognitive psychology, I generally do not need further textbooks except textbooks I used before. 
+I was trained in applied (cognitive) psychology track for 5 years, I generally do not need further textbooks except textbooks I used before:
 
-I do have a book want to read: [Bayesian Models of Cognition: Reverse Engineering the Mind](https://www.amazon.nl/-/en/Bayesian-Models-Cognition-Reverse-Engineering/dp/0262049414/ref=sr_1_1?adgrpid=107688379813&dib=eyJ2IjoiMSJ9.4V-96JR0m56L-CvQEAFtNfezFP06mCiMkJLo2QRdpP6rUI-DyXNHZF-c1l4SnM_YheBwmV-d8aWgHnQ3JZP0SE6gE_PE4hnGLv94xD9JTFDOTBzY_1l-qJWlo2HuVMSRD8za1svprwpsOfx6MRO-Cui3BBlUqzJL3DHYZhJNKVMKAWsBuHB957VwBLQ40APn1A2JzjVhA5bUegPlSa70TOQgaVshj0tGeKnafsky27RXT_fM4H6F2yieZqQb8oJl3A5XM_1tQRi-KM2njyqzMGqYeifS8cRr2EEzjbeV3zc.7Kof3KbBRUsBBOdgNSpd_JZ8cpN9pKuvz1bWIZLYEgo&dib_tag=se&hvadid=678272022875&hvdev=c&hvlocphy=9103951&hvnetw=g&hvqmt=e&hvrand=14643976115512579455&hvtargid=kwd-2229974913553&hydadcr=30008_2483970&keywords=bayesian+models+of+cognition&mcid=de04fc7587ea3747bd2eab81a73d2173&qid=1773740826&sr=8-1)
+1. Kantowitz, B. H., Roediger, H. L., & Elmes, D. G. (2009). Experimental psychology (Vol. 3). Belmont: Wadsworth.
+2. Prins, N. (2016). Psychophysics: a practical introduction. Academic Press.
+
+Other books may be useful at some stages:
+
+1. Yuille, A. L., & Bülthoff, H. H. (1993). Bayesian decision theory and psychophysics.
+2. Green, D. M., & Swets, J. A. (1966). Signal detection theory and psychophysics (Vol. 1, pp. 1969-2012). New York: Wiley.
+3. Hautus, M. J., Macmillan, N. A., & Creelman, C. D. (2021). Detection theory: A user's guide. Routledge.
+4. West, B. J. (2011). Decision Making: a Psychophysics Application of Network Science. Decision Making: A Psychophysics Application of Network Science. Edited by West Bruce J-. Published by World Scientific Publishing Co. Pte. Ltd.
 
 ### Computational Cognitive Modelling
 
 This is a field for building up decision models, I think I should learn something related to this field.
 
-### Books
-
-Yuille, A. L., & Bülthoff, H. H. (1993). Bayesian decision theory and psychophysics.
-
-Kantowitz, B. H., Roediger, H. L., & Elmes, D. G. (2009). Experimental psychology (Vol. 3). Belmont: Wadsworth.
-
-Prins, N. (2016). Psychophysics: a practical introduction. Academic Press.
-
-Green, D. M., & Swets, J. A. (1966). Signal detection theory and psychophysics (Vol. 1, pp. 1969-2012). New York: Wiley.
-
-Hautus, M. J., Macmillan, N. A., & Creelman, C. D. (2021). Detection theory: A user's guide. Routledge.
-
-West, B. J. (2011). Decision Making: a Psychophysics Application of Network Science. Decision Making: A Psychophysics Application of Network Science. Edited by West Bruce J-. Published by World Scientific Publishing Co. Pte. Ltd.
+I do have a book want to read: [Bayesian Models of Cognition: Reverse Engineering the Mind](https://www.amazon.nl/-/en/Bayesian-Models-Cognition-Reverse-Engineering/dp/0262049414/ref=sr_1_1?adgrpid=107688379813&dib=eyJ2IjoiMSJ9.4V-96JR0m56L-CvQEAFtNfezFP06mCiMkJLo2QRdpP6rUI-DyXNHZF-c1l4SnM_YheBwmV-d8aWgHnQ3JZP0SE6gE_PE4hnGLv94xD9JTFDOTBzY_1l-qJWlo2HuVMSRD8za1svprwpsOfx6MRO-Cui3BBlUqzJL3DHYZhJNKVMKAWsBuHB957VwBLQ40APn1A2JzjVhA5bUegPlSa70TOQgaVshj0tGeKnafsky27RXT_fM4H6F2yieZqQb8oJl3A5XM_1tQRi-KM2njyqzMGqYeifS8cRr2EEzjbeV3zc.7Kof3KbBRUsBBOdgNSpd_JZ8cpN9pKuvz1bWIZLYEgo&dib_tag=se&hvadid=678272022875&hvdev=c&hvlocphy=9103951&hvnetw=g&hvqmt=e&hvrand=14643976115512579455&hvtargid=kwd-2229974913553&hydadcr=30008_2483970&keywords=bayesian+models+of+cognition&mcid=de04fc7587ea3747bd2eab81a73d2173&qid=1773740826&sr=8-1)
 
 
 ## 5 Decision Science
@@ -127,10 +125,7 @@ Gilboa, I. (2009). Theory of decision under uncertainty (Vol. 45). Cambridge uni
 
 ## 6 Statistics
 
-### Books
-
-Back in my undergruate years, I used **[Essentials of Statistics for the Behavioral Sciences](https://www.cengage.com/c/essentials-of-statistics-for-the-behavioral-sciences-10e-gravetter-wallnau-forzano-witnauer/9780357365298/)** for learning statisctics. In my following years, I never further sharper my skills 
-around statistics. I mean sharpen by choosing to develop a new data analysis method.
+Back in my undergruate years, I used **[Essentials of Statistics for the Behavioral Sciences](https://www.cengage.com/c/essentials-of-statistics-for-the-behavioral-sciences-10e-gravetter-wallnau-forzano-witnauer/9780357365298/)** for learning statisctics. In my following years, I never further sharper my skills  around statistics. I mean sharpen by choosing to develop a new data analysis method.
 
 ## 7 Economics
 
